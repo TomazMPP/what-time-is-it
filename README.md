@@ -14,6 +14,13 @@
 > This is a small project i made with the inspiration in many others around the internet. 
 > I made it mainly to practice HTML, CSS and JavaScript.
 
+## Idea
+On this project the main goal is to create a page that changes corresponding to the hour you're opening it.
+
+* Morning, Afternoon and Night modes
+* The page will show the weather and time on two cities, Belo Horizonte (Brazil) and Oslo (Norway) - Belo Horizonte was choosen because it is my hometown. Oslo was choosen because it is a city i really want to visit.
+* The main wheater of the page will be based of Oslo - because of it's variety of weathers - if it's snowing on the city, it will be snowing on the page. If it's raining, it will be raining on the page.
+
 ## Author
 
 👤 **Tomaz Pontes**
