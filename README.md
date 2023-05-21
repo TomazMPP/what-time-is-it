@@ -1,4 +1,4 @@
-## Welcome to "What Time is It?"
+<h1 align="center">Welcome to "What time is it?"</h1>
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -35,12 +35,12 @@ On this project the main goal is to create a page that changes corresponding to 
 Give a ⭐️ if you like this project!
 
 ## Different versions of the page:
-# Raining - Morning
-# Raining - Afternoon
-# Raining - Night
-# Normal - Morning
-# Normal - Afternoon
-# Normal - Night
-# Snowing - Morning
-# Snowing - Afternoon
-# Snowing - Night
+* Raining - Morning
+* Raining - Afternoon
+* Raining - Night
+* Normal - Morning
+* Normal - Afternoon
+* Normal - Night
+* Snowing - Morning
+* Snowing - Afternoon
+* Snowing - Night
