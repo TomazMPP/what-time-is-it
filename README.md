@@ -21,7 +21,7 @@
 * Website: tomazmpp.github.io
 * Twitter: [@tomaz_dev](https://twitter.com/tomaz_dev)
 * Github: [@TomazMPP](https://github.com/TomazMPP)
-* LinkedIn: [@tomaz-pontes](https://linkedin.com/in/tomaz-pontes)
+* LinkedIn: [@Tomaz Pontes](https://linkedin.com/in/tomaz-pontes)
 
 ## Show your support
 
