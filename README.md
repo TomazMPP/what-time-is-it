@@ -32,5 +32,15 @@ On this project the main goal is to create a page that changes corresponding to 
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you like this project!
 
+## Different versions of the page:
+# Raining - Morning
+# Raining - Afternoon
+# Raining - Night
+# Normal - Morning
+# Normal - Afternoon
+# Normal - Night
+# Snowing - Morning
+# Snowing - Afternoon
+# Snowing - Night
