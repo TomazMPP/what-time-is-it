@@ -14,6 +14,8 @@ const minutes = userDate.getMinutes();
 const apiOslo = `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/Oslo?unitGroup=metric&key=QG8JA7KU2KNDPCF2VAJXXRS4H&contentType=json`;
 const apiBH = `https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/belo%20horizonte?unitGroup=metric&key=QG8JA7KU2KNDPCF2VAJXXRS4H&contentType=json`;
 
+let isInitialState = true;
+
 function time() {
 
     mainMessagePage.innerHTML = 'Good Morning!';
@@ -93,9 +95,19 @@ fetch(apiBH)
 const button = document.getElementById('userclick');
 
 button.addEventListener('click', function() {
-    userTimezone();
-});
+    if (isInitialState) {
+      userTimezone();
+      isInitialState = false;
+    } else {
+      resetPage();
+      isInitialState = true;
+    }
+  });
 
+  function resetPage() {
+    time();
+  }
+  
 function userTimezone() {
     mainMessagePage.innerHTML = 'Good Morning!';
     if (timezone <= 12) {
