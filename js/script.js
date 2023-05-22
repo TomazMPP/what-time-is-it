@@ -41,7 +41,7 @@ function time() {
     const rain = dataOslo.currentConditions.precip
     const snow = dataOslo.currentConditions.snow
     const temperatureOslo = dataOslo.currentConditions.temp;    
-    const tempFahrenheitOslo = (temperatureOslo * 9/5) + 32.toFixed(2);
+    const tempFahrenheitOslo = ((temperatureOslo * 9/5) + 32).toFixed(2);
     weatherOslo.innerHTML = `${temperatureOslo} °C | ${tempFahrenheitOslo} °F`;
 
     if (snow >= 5) {
@@ -86,7 +86,7 @@ fetch(apiBH)
 .then(response => response.json())
 .then(dataBH => {
   const temperatureBH = dataBH.currentConditions.temp;    
-  const tempFahrenheitBH = (temperatureBH * 9/5) + 32;
+  const tempFahrenheitBH = ((temperatureBH * 9/5) + 32).toFixed(2);
   weatherBH.innerHTML = `${temperatureBH} °C | ${tempFahrenheitBH} °F`;
 });
 
