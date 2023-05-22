@@ -35,12 +35,28 @@ On this project the main goal is to create a page that changes corresponding to 
 Give a ⭐️ if you like this project!
 
 ## Different versions of the page:
-* Raining - Morning
-* Raining - Afternoon
-* Raining - Night
+<details>
 * Normal - Morning
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/normalmorning.png" />
 * Normal - Afternoon
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/normalafternoon.png" />
 * Normal - Night
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/normalnight.png" />
+#
+* Raining - Morning
+<img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/rainmorning.png" />
+* Raining - Afternoon
+<img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/rainafternoon.png" />
+* Raining - Night
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/rainnight.png" />
+  #
 * Snowing - Morning
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/snowmorning.png" />
 * Snowing - Afternoon
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/snowafternoon.png" />
 * Snowing - Night
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/snownight.png" />
+# User TimeZone
+  <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/usertimezone.png" />
+  </details>
+  
