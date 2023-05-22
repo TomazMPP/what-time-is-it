@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to "What time is it?"</h1>
-
+<a href="what-time-is-it-rose.vercel.app"><p>✨ Published version</p></a>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -25,7 +25,7 @@ On this project the main goal is to create a page that changes corresponding to 
 
 👤 **Tomaz Pontes**
 
-* Website: tomazmpp.github.io
+* Website: https://tomazmpp.github.io
 * Twitter: [@tomaz_dev](https://twitter.com/tomaz_dev)
 * Github: [@TomazMPP](https://github.com/TomazMPP)
 * LinkedIn: [@Tomaz Pontes](https://linkedin.com/in/tomaz-pontes)
@@ -35,7 +35,7 @@ On this project the main goal is to create a page that changes corresponding to 
 Give a ⭐️ if you like this project!
 
 ## Different versions of the page:
-<details>
+<details><summary>Versions</summary>
 * Normal - Morning
   <img src="https://raw.githubusercontent.com/TomazMPP/what-time-is-it/main/img/normalmorning.png" />
 * Normal - Afternoon
