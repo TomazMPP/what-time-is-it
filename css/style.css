@@ -178,3 +178,14 @@ p#weatherOslo {
 p#timeuser {
     text-align: center;
 }
+
+.info-Oslo {
+  background-image: url(../img/norway.png);
+  background-repeat: no-repeat;
+}
+
+.info-bh {
+  background-image: url(../img/brazil.png);
+  background-position-x: 80%;
+  background-repeat: no-repeat;
+}
