@@ -41,7 +41,7 @@ function time() {
     const rain = dataOslo.currentConditions.precip
     const snow = dataOslo.currentConditions.snow
     const temperatureOslo = dataOslo.currentConditions.temp;    
-    const tempFahrenheitOslo = (temperatureOslo * 9/5) + 32;
+    const tempFahrenheitOslo = (temperatureOslo * 9/5) + 32.toFixed(2);
     weatherOslo.innerHTML = `${temperatureOslo} °C | ${tempFahrenheitOslo} °F`;
 
     if (snow >= 5) {
