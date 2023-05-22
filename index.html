@@ -4,9 +4,42 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>What Time is It?</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
-    
+<body onload="time()">
+        <h1 id="mainMessage">Good Morning!</h1>
+        <img src="/img/sun.png" alt="sun" id="sun">
+
+        <section class="central">
+            <div class="infos">
+              <div class="info-bh">
+                <h2>Belo Horizonte</h2>
+                <p id="weatherBH"></p>
+                <p id="timeBH"></p>
+              </div>
+              <div class="info-Oslo">
+                <h2>Oslo</h2>
+                <p id="weatherOslo"></p>
+                <p id="timeOslo"></p>
+              </div>
+            </div>
+          </section>
+
+          <p id="mainWarning">The main timezone and weather of this page is based by Oslo. <br>
+            If you want it to be based on your timezone, click the button below</p>
+
+            <button onclick="userTimezone()" id="userclick">Your Timezone</button>
+
+            <p id="timeuser"></p>
+            <div class="rain"></div>
+
+            <footer>
+                <a href="https://github.com/TomazMPP"><p>&copy; TomazMPP</p></a>
+                    </footer>
+                    <script src="/js/script.js"></script>
 </body>
 </html>
