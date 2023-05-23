@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to "What time is it?"</h1>
 <a href="https://what-time-is-6dw6o27vh-tomazmpp.vercel.app" target="_blank"><p>✨ Published version</p></a>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-blue.svg?cacheSeconds=2592000" />
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/TomazMPP/what-time-is-it/graphs/commit-activity" target="_blank">
